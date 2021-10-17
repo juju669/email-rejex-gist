@@ -45,6 +45,8 @@ The boundries are represented by \b and\B.
 ## Author
 My name is Julian Wilson, I'm an aspired web developer always looking to learn in the world of coding. Please checkout my github profile. https://github.com/juju669
 
+Gist link https://gist.github.com/juju669
+
 
 
 
